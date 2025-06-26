@@ -35,7 +35,7 @@ Below are our main repositories — each one a testament to our collaboration, l
 
 ---
 
-### 4. [WebWhiz Quiz App](https://github.com/WebDev-Group-4-25/WebWhiz-Quiz-App)
+### 4. [WebWhiz Quiz App](https://github.com/WebDev-Group-4-25/QuizApp)
 *An interactive quiz app built for the Web Development course and learners.*
 
 - **Description:**  
