@@ -44,6 +44,15 @@ Below are our main repositories — each one a testament to our collaboration, l
 
 ---
 
+### 5. [PUP Sintang Pusa](https://github.com/WebDev-Group-4-25/PUP-Sintang-Pusa)
+*A student organization web page for the welfare of cats within the PUP community.*
+
+- **Description:**  
+  PUP Sintang Pusa showcases a student organization and serves as a course task focusing on semantic HTML and web basics.
+- **Core Technology:** HTML, CSS
+
+---
+
 ## 👥 Team Members
 
 - **Migueh, Rica Joi**
@@ -56,6 +65,6 @@ Below are our main repositories — each one a testament to our collaboration, l
 
 ## 🧑‍💻 About Us
 
-[WebDev] Group 4 '25 is a team of web development students and enthusiasts, united by a love for code and creativity.
-We believe in making web apps that are practical, supportive of communities, and a little bit fun.
+[WebDev] Group 4 '25 is a team of web development students and enthusiasts, united by a love for code and creativity.  
+We believe in making web apps that are practical, supportive of communities, and a little bit fun.  
 Feel free to browse our repositories, contribute, or reach out!
