@@ -8,7 +8,7 @@ Below are our main repositories — each one a testament to our collaboration, l
 
 ## 📦 Repositories
 
-### 1. [PUPCommeownity](https://github.com/WebDev-Group-4-25/PUPCommeownity)
+### 1. [PUP Commeownity](https://github.com/WebDev-Group-4-25/PUPCommeownity)
 *A comprehensive online platform dedicated to the welfare of PUP’s campus cats.*
 
 - **Description:**  
@@ -17,7 +17,7 @@ Below are our main repositories — each one a testament to our collaboration, l
 
 ---
 
-### 2. [LiveWeatherApp](https://github.com/WebDev-Group-4-25/LiveWeatherApp)
+### 2. [Live Weather App](https://github.com/WebDev-Group-4-25/LiveWeatherApp)
 *A collaborative weather app project that uses the OpenWeatherMap API to display real-time weather information based on user-inputted city names.*
 
 - **Description:**  
@@ -26,7 +26,7 @@ Below are our main repositories — each one a testament to our collaboration, l
 
 ---
 
-### 3. [iscp_enrollment](https://github.com/WebDev-Group-4-25/iscp_enrollment)
+### 3. [ISCP Enrollment](https://github.com/WebDev-Group-4-25/iscp_enrollment)
 *A simple web-based Student Enrollment System for a small college, built with PHP and MySQL. This system allows an admin to manage students and courses with fun, meme-themed content inspired by the International State College of the Philippines (ISCP).*
 
 - **Description:**  
