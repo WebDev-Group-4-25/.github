@@ -44,7 +44,7 @@ Below are our main repositories — each one a testament to our collaboration, l
 
 ---
 
-### 5. [PUP Sintang Pusa](https://github.com/WebDev-Group-4-25/PUP-Sintang-Pusa)
+### 5. [PUP Sintang Pusa](https://github.com/WebDev-Group-4-25/SintangPusa)
 *A student organization web page for the welfare of cats within the PUP community.*
 
 - **Description:**  
