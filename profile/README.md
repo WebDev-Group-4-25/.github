@@ -1,4 +1,4 @@
-# [WebDev] Group 4 '25 Organization
+# [WebDev] Group 4 '25
 
 Welcome to the official GitHub organization for **[WebDev] Group 4 '25**!  
 We are a group of passionate web developers building creative, functional, and sometimes meme-inspired projects.  
