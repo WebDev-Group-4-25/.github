@@ -21,7 +21,7 @@ Below are our main repositories — each one a testament to our collaboration, l
 *A simple web-based Student Enrollment System for a small college, built with PHP and MySQL. This system allows an admin to manage students and courses with fun, meme-themed content inspired by the International State College of the Philippines (ISCP).*
 
 - **Description:**  
-  iscp_enrollment is more than just an enrollment system — it's a lighthearted project inspired by ISCP memes and student culture. Admins can manage student records, handle course enrollments, and enjoy a few laughs along the way!
+  ISCP Enrollment is more than just an enrollment system — it's a lighthearted project inspired by ISCP memes and student culture. Admins can manage student records, handle course enrollments, and enjoy a few laughs along the way!
 - **Core Technology:** PHP, MySQL
 
 ---
@@ -39,11 +39,7 @@ Below are our main repositories — each one a testament to our collaboration, l
 *An interactive quiz app built for the Web Development course and learners.*
 
 - **Description:**  
-  The WebWhiz Quiz App is a fun and engaging application where users can test their web development knowledge.  
-  - Displays one question at a time with multiple choices  
-  - Uses JavaScript logic to track scores  
-  - Utilizes jQuery for dynamic UI updates (show/hide questions)  
-  - **Bonus:** Loads questions from a JSON file using AJAX  
+  WebWhiz Quiz App is an interactive application where users can test their web development knowledge. The app displays one question at a time with multiple choices, tracks the user's score using JavaScript logic, and updates the interface using jQuery. As a bonus, it can load questions from a JSON file using AJAX, making it both functional and dynamic for anyone learning web development.
 - **Core Technology:** JavaScript, jQuery, AJAX, JSON
 
 ---
