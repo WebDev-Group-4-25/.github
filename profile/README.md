@@ -17,7 +17,16 @@ Below are our main repositories — each one a testament to our collaboration, l
 
 ---
 
-### 2. [Live Weather App](https://github.com/WebDev-Group-4-25/LiveWeatherApp)
+### 2. [ISCP Enrollment](https://github.com/WebDev-Group-4-25/iscp_enrollment)
+*A simple web-based Student Enrollment System for a small college, built with PHP and MySQL. This system allows an admin to manage students and courses with fun, meme-themed content inspired by the International State College of the Philippines (ISCP).*
+
+- **Description:**  
+  iscp_enrollment is more than just an enrollment system — it's a lighthearted project inspired by ISCP memes and student culture. Admins can manage student records, handle course enrollments, and enjoy a few laughs along the way!
+- **Core Technology:** PHP, MySQL
+
+---
+
+### 3. [Live Weather App](https://github.com/WebDev-Group-4-25/LiveWeatherApp)
 *A collaborative weather app project that uses the OpenWeatherMap API to display real-time weather information based on user-inputted city names.*
 
 - **Description:**  
@@ -26,12 +35,16 @@ Below are our main repositories — each one a testament to our collaboration, l
 
 ---
 
-### 3. [ISCP Enrollment](https://github.com/WebDev-Group-4-25/iscp_enrollment)
-*A simple web-based Student Enrollment System for a small college, built with PHP and MySQL. This system allows an admin to manage students and courses with fun, meme-themed content inspired by the International State College of the Philippines (ISCP).*
+### 4. [WebWhiz Quiz App](https://github.com/WebDev-Group-4-25/WebWhiz-Quiz-App)
+*An interactive quiz app built for the Web Development course and learners.*
 
 - **Description:**  
-  iscp_enrollment is more than just an enrollment system — it's a lighthearted project inspired by ISCP memes and student culture. Admins can manage student records, handle course enrollments, and enjoy a few laughs along the way!
-- **Core Technology:** PHP, MySQL
+  The WebWhiz Quiz App is a fun and engaging application where users can test their web development knowledge.  
+  - Displays one question at a time with multiple choices  
+  - Uses JavaScript logic to track scores  
+  - Utilizes jQuery for dynamic UI updates (show/hide questions)  
+  - **Bonus:** Loads questions from a JSON file using AJAX  
+- **Core Technology:** JavaScript, jQuery, AJAX, JSON
 
 ---
 
@@ -47,6 +60,6 @@ Below are our main repositories — each one a testament to our collaboration, l
 
 ## 🧑‍💻 About Us
 
-[WebDev] Group 4 '25 is a team of web development students and enthusiasts, united by a love for code and creativity. 
+[WebDev] Group 4 '25 is a team of web development students and enthusiasts, united by a love for code and creativity.
 We believe in making web apps that are practical, supportive of communities, and a little bit fun.
 Feel free to browse our repositories, contribute, or reach out!
