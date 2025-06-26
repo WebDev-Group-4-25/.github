@@ -12,7 +12,7 @@ Below are our main repositories — each one a testament to our collaboration, l
 *A comprehensive online platform dedicated to the welfare of PUP’s campus cats.*
 
 - **Description:**  
-  PUPCommeownity is a platform designed to bring attention to the welfare of cats on the Polytechnic University of the Philippines campus. It serves as a resource hub, community forum, and support network for cat lovers and advocates within PUP.
+  PUP Commeownity is a platform designed to bring attention to the welfare of cats on the Polytechnic University of the Philippines campus. It serves as a resource hub, community forum, and support network for cat lovers and advocates within PUP.
 - **Core Technology:** Blade (Laravel)
 
 ---
@@ -30,7 +30,7 @@ Below are our main repositories — each one a testament to our collaboration, l
 *A collaborative weather app project that uses the OpenWeatherMap API to display real-time weather information based on user-inputted city names.*
 
 - **Description:**  
-  LiveWeatherApp helps users get up-to-date weather information for any city worldwide. Built for accessibility and ease-of-use, it fetches accurate forecasts using the OpenWeatherMap API.
+  Live Weather App helps users get up-to-date weather information for any city worldwide. Built for accessibility and ease-of-use, it fetches accurate forecasts using the OpenWeatherMap API.
 - **Core Technology:** JavaScript, CSS, HTML
 
 ---
